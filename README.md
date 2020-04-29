@@ -1,2 +1,2 @@
 # prueba1
-prueba hecha en clase 
+prueba hecha en clase 1
